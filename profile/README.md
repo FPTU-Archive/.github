@@ -1,1 +1,2 @@
-# .github
+# This repository serves as an archive of my academic journey at FPT University (FPTU). Below is a screenshot of the repository structure on my local machine.
+![](/images/Screenshot%202026-11-18%20221312.png)
